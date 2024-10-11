@@ -10,7 +10,7 @@ app = FastAPI()
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=['http://localhost:3000'],
+    allow_origins=['http://localhost:3001'],
     allow_methods=['*'],
     allow_headers=['*']
 )
@@ -22,9 +22,9 @@ redis = Redis(
 )
 
 redis_backend = get_redis_connection(
-    host="redis-16197.c264.ap-south-1-1.ec2.redns.redis-cloud.com",
-    port=16197,
-    password="36SxrwBNrWzliQ8ml7Rv9Gj1BDgQ0v0z",
+    host="redis-11160.c8.us-east-1-4.ec2.redns.redis-cloud.com",
+    port=11160,
+    password="jk8tyl5E1p3hDpsLL6o3z7ba9B4dwaxk",
     decode_responses=True
 )
 
