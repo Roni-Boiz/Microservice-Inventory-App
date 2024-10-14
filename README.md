@@ -82,7 +82,7 @@ $ npm start
 
 ###### Products
 1. Get
-![products-get](https://github.com/user-attachments/assets/6dd9ee69-dcd7-4350-b8c7-bbb63173b9e9)
+![products-get](https://github.com/user-attachments/assets/a9ef8f3d-2368-4315-a320-7d036e4bae23)
 
 2. Get All
 ![products-getall](https://github.com/user-attachments/assets/593befa3-b46b-4bf2-9756-b408ce09d611)
