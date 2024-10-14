@@ -104,5 +104,5 @@ $ npm start
 1. Inventory
 ![inventory-consumer](https://github.com/user-attachments/assets/22df8087-0936-4e4f-bcd9-d4d3542e73f4)
 
-2. Payment
+2. Payment: refund if product is not available
 ![payment-consumer](https://github.com/user-attachments/assets/5dc73c31-429e-4aa2-a5f3-a9dcf4d3d763)
